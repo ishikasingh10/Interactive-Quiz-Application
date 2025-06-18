@@ -2,15 +2,15 @@
 
 A fully functional, responsive, and interactive quiz application built using HTML, CSS, and JavaScript. This app includes:
 
-A dark mode toggle 🌙
+-A dark mode toggle 🌙
 
-A countdown timer ⏳
+-A countdown timer ⏳
 
-A progress bar 📊
+-A progress bar 📊
 
-Instant feedback on selected answers ✅❌
+-Instant feedback on selected answers ✅❌
 
-Final score display at the end 🎉
+-Final score display at the end 🎉
 
 ## 📂 Project Structure
 
@@ -22,27 +22,27 @@ Final score display at the end 🎉
 
 ## 🛠️ Features
 
-Interactive quiz with multiple-choice questions
+-Interactive quiz with multiple-choice questions
 
-Real-time countdown timer for each question
+-Real-time countdown timer for each question
 
-Dynamic progress bar indicating quiz completion
+-Dynamic progress bar indicating quiz completion
 
-Instant correct/wrong answer highlights
+-Instant correct/wrong answer highlights
 
-Score summary at the end
+-Score summary at the end
 
-Option to restart the quiz
+-Option to restart the quiz
 
-Light/Dark mode toggle
+-Light/Dark mode toggle
 
 ## 💻 Technologies Used
 
-HTML
+-HTML
 
-CSS
+-CSS
 
-JavaScript
+-JavaScript
 
 ## 🚀 Getting Started
 
